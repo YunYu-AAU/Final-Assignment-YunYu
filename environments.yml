@@ -1,4 +1,4 @@
-name: geoanalysis
+name: environments
 channels:
   - conda-forge
   - defaults
